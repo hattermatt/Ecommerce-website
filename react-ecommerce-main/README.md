@@ -3,7 +3,7 @@ Created with CodeSandbox
 
 This is a fully functional react E-Commerce website which displays the items and shows shipping information using Commerce.js platform and allows customers to enter card payment details using the Stripe platform.
 
-![Ecommerce_Website](react-ecommerce-main/src/assets/ecommerce.png)
+![Ecommerce_Website](src/assets/ecommerce.png)
 
 ## Installation
 
